@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://consultingbusiness.com/sitemap.xml
