@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://consultingbusiness.com/sitemap.xml
+Sitemap: https://mbcx07.github.io/blog-consultingbusiness/sitemap.xml
